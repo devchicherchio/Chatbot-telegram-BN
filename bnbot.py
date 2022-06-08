@@ -11,7 +11,7 @@ import threading
 host = "smtp.gmail.com"
 port = "587"
 login = "bnbot.emails@gmail.com"
-senha = "hlfaebrutyrprhuw"
+senha = "*"
 para = "geraldo@bninvestimentos.com"
 server = smtplib.SMTP(host, port)
 server.ehlo()
